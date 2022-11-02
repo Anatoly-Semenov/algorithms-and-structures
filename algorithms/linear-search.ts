@@ -14,5 +14,5 @@ function linearSearch(array: number[], item: number): number | null {
 }
 
 // Tests
-console.log(linearSearch(array, 1))
+console.log(linearSearch(array, 7))
 console.log('iterations = ', iterations)
